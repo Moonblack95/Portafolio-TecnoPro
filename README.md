@@ -1,4 +1,4 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# 📑Portafolio Proyecto con boostrap
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
 
@@ -9,26 +9,31 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 ### Capturas de pantalla:
 
 Primera parte de la página web:
+![image](https://github.com/Moonblack95/Portafolio-TecnoPro/assets/139600701/7e4e102e-44e1-4bda-a7c1-707d2ced67d8)
 
-![Primera parte de la página web](imagenes/screenshot1.png)
+
+
+
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/Moonblack95/Portafolio-TecnoPro/assets/139600701/427954e8-e9d3-4f90-8f02-b000ba5cfb50)
 
-Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+Proyecto:
+![image](https://github.com/Moonblack95/Portafolio-TecnoPro/assets/139600701/74dd233b-81be-40c5-849d-cf2735e049c3)
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/Moonblack95/Portafolio-TecnoPro/assets/139600701/5a567790-ef0f-4ccb-baa3-588772e8cf9f)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/Moonblack95/Portafolio-TecnoPro/assets/139600701/34915f14-6936-4fc4-a483-c9694b72c27b)
 
-## Tecnologías
+
+## 💻 Tecnologías
 
 Esta página web fue creada con:
 
